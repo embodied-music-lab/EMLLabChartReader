@@ -1,3 +1,7 @@
 dist/
 *.adibin.local
 .DS_Store
+# made by tests/make_fixtures.py
+tests/fixtures/
+tests/expected.json
+__pycache__/
