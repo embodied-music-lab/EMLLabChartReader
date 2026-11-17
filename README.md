@@ -1,5 +1,7 @@
 # EML LabChart Reader for Praat
 
+![Opening a four-channel LabChart file in Praat: choosing Read LabChart binary file from the Open menu, ticking two channels to extract, skipping the export, and viewing the combined Sound in the Sound editor](docs/images/walkthrough.svg)
+
 EML LabChart Reader is a Praat plugin that opens LabChart "ADInstruments binary" exports (`.adibin` files) at full resolution. It reads the file in memory, with no intermediate file. Every channel keeps its recorded units, and the channel names, units, sample rate and recording start time come from the file itself.
 
 This plugin is in beta. Versions stay below 1.0.0 until the first public release.
