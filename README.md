@@ -41,9 +41,9 @@ You can install the plugin either way.
 
 ### Option B: install with the EML Plugin Manager
 
-The EML Plugin Manager installs Praat plugins for you, so you don't need to find Praat's preferences folder. It isn't public yet. This option applies once it is.
+The EML Plugin Manager installs Praat plugins for you, so you don't need to find Praat's preferences folder.
 
-1. Download `eml-plugin-manager-install.praat` from the Plugin Manager's repository. In Praat, choose **Praat > Open Praat script...**, open the file, and run it. It installs the Plugin Manager.
+1. Download `eml-plugin-manager-install.praat` from the [Plugin Manager's repository](https://github.com/embodied-music-lab/EMLPraatPluginManager). In Praat, choose **Praat > Open Praat script...**, open the file, and run it. It installs the Plugin Manager.
 2. Restart Praat.
 3. On the [Releases](https://github.com/embodied-music-lab/EMLLabChartReader/releases) page, under the newest release, download **Source code (zip)**.
 4. In Praat, choose **Praat > EML Plugin Manager: Install plugin from disk...**, select the zip, and follow the dialog. The Plugin Manager finds the `plugin_EMLLabChartReader` folder inside the zip.
